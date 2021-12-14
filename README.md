@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oj1devoloper
 - 👀 I’m interested in Innovation technology
-- 🌱 I’m currently learning concepts of quantum computer 
+- 🌱 I’m currently learning concepts DL Gaan's 
 - 💞️ I’m looking to collaborate on ML and DL
 - 📫 How to reach me Please leave a message on ojasvisharma26@gmail.com
 
